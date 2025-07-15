@@ -1,1 +1,1 @@
-# Faker-Data
+This Jupyter Notebook uses the Faker library to generate a synthetic dataset of 2,000 sales transactions, ideal for testing dashboards, running analytics, or teaching machine learning workflows without using real customer data.
